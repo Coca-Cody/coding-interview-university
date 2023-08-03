@@ -1,7 +1,4 @@
-git commit -am "Marked personal progress"
-git pull upstream main  # keep your fork up-to-date with changes from the original repo
 
-git push # just pushes to your fork
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
